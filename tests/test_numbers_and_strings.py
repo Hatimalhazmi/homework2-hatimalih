@@ -27,3 +27,4 @@ def test_concat():
 
 def test_replace():
     assert(n == "Python is good")
+''
