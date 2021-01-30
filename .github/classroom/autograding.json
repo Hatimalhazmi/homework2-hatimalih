@@ -1,7 +1,7 @@
 {
   "tests": [
     {
-      "name": "test",
+      "name": "test_dictionaries.py",
       "setup": "sudo -H pip3 install pytest",
       "run": "pytest",
       "input": "",
