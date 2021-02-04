@@ -1,6 +1,6 @@
 import pytest
 
-from mypkg.my_answers import numbers_and_strings
+from my_answers import numbers_and_strings
 
 x, y, z, length, m, n = numbers_and_strings()
 
