@@ -1,6 +1,6 @@
 import pytest
 
-from mypkg.my_answers import dictionaries
+from my_answers import dictionaries
 
 a, f, p, k = dictionaries()
 
