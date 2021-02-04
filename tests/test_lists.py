@@ -1,6 +1,6 @@
 import pytest
 
-from mypkg.my_answers import lists
+from my_answers import lists
 
 p, r, c, d, o = lists()
 
